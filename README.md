@@ -16,3 +16,10 @@ Algoritmos desenvolvidos em Python.
 - Página (de um diário)
 
   ## Instruções para execução
+
+
+__
+Desenvolvido por:
+Alan Augusto
+Dante Pedrosa
+__
